@@ -17,6 +17,8 @@ class SettingsViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
+        self.view.backgroundColor = UIColor.darkGrayColor()
+                
         let defaults = NSUserDefaults.standardUserDefaults()
         let intvalue = defaults.integerForKey("testuser");
         slider.value = Float(intvalue)

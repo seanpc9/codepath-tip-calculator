@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  tips
+//  codepath-tips
 //
-//  Created by Sean Crenshaw on 11/30/15.
+//  Created by Sean Crenshaw on 12/29/15.
 //  Copyright © 2015 Sean Crenshaw. All rights reserved.
 //
 
